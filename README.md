@@ -1,4 +1,4 @@
-#  # JavaServer Faces application using Spring Boot
+# JavaServer Faces application using Spring Boot
 
 This is a simple JavaServer Faces application using Spring Boot. It was developed as a component-based user interface for web applications and documented in an article in the Systems Analysis and Development course.
 
