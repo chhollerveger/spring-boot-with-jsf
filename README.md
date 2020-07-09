@@ -4,7 +4,7 @@ This is a simple JavaServer Faces application using Spring Boot. It was develope
 
 **What was used in the project:** 
 - Spring Initializr <https://start.spring.io/>
-- Spring Boot 1.5.2
+- Spring Boot 2.3.1
 - JDK 1.8 or later
 - Maven
 - Apache MyFaces
